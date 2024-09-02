@@ -1,0 +1,3 @@
+[submodule "indigitalsecurityblog/themes/hugo-texify2"]
+	path = indigitalsecurityblog/themes/hugo-texify2
+	url = https://github.com/weastur/hugo-texify2.git
